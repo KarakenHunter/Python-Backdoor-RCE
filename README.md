@@ -68,5 +68,6 @@ Shell> pwd
  Disclaimer
 
 This project is created for educational purposes only.
-
+```
+DISCLAIMER:
 Do NOT use this tool on systems without proper authorization. Unauthorized access to systems is illegal and unethical.
